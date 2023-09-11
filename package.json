@@ -4,7 +4,7 @@
   "description": "Starter project for kata (Node, TypeScript, Jest, fast-check, ts-node)",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch --coverage",
+    "test": "jest --watchAll --coverage",
     "format": "prettier --write \"src/**/*.ts\""
   },
   "devDependencies": {
